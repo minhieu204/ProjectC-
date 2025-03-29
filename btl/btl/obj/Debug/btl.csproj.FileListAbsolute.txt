@@ -1,0 +1,11 @@
+D:\projectCSharp\btl\btl\bin\Debug\btl.exe.config
+D:\projectCSharp\btl\btl\bin\Debug\btl.exe
+D:\projectCSharp\btl\btl\bin\Debug\btl.pdb
+D:\projectCSharp\btl\btl\obj\Debug\btl.csproj.AssemblyReference.cache
+D:\projectCSharp\btl\btl\obj\Debug\btl.Form1.resources
+D:\projectCSharp\btl\btl\obj\Debug\btl.Properties.Resources.resources
+D:\projectCSharp\btl\btl\obj\Debug\btl.csproj.GenerateResource.cache
+D:\projectCSharp\btl\btl\obj\Debug\btl.csproj.CoreCompileInputs.cache
+D:\projectCSharp\btl\btl\obj\Debug\btl.exe
+D:\projectCSharp\btl\btl\obj\Debug\btl.pdb
+D:\projectCSharp\btl\btl\obj\Debug\btl.Dashboard.resources
